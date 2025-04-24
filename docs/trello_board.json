@@ -1,0 +1,27 @@
+{
+  "name": "Knowledge-Gathering Tool",
+  "lists": [
+    {
+      "name": "To Do",
+      "cards": [
+        {"title": "Approve requirements.md", "due": "2025-04-20"},
+        {"title": "Set up GitHub repository", "due": "2025-04-22"},
+        {"title": "Install Python and Node.js", "due": "2025-04-22"},
+        {"title": "Provide sample job roles", "due": "2025-04-24"},
+        {"title": "Confirm test country for Manage a PPA", "due": "2025-04-24"},
+        {"title": "Schedule weekly check-in", "due": "2025-04-21"},
+        {"title": "Test existing app.py", "due": "2025-04-26"}
+      ]
+    },
+    {
+      "name": "In Progress",
+      "cards": [
+        {"title": "Develop prototype backend", "due": "2025-05-01"}
+      ]
+    },
+    {
+      "name": "Done",
+      "cards": []
+    }
+  ]
+}
